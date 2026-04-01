@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MayurMathavadiya
-- 👀 I’m interested in Python Development
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on python Development
+- 👀 I’m Python Software Engineer
+- 🌱 I’m currently working with TrooTech Bussiness Solution PVT. LTD.
+- 💞️ I love coding...
 
 <!---
 MayurMathavadiya/MayurMathavadiya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
